@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/collapsible-table/precache-manifest.c0b2c2fdafb3979b664d3c3ff652d85c.js"
+  "/collapsible-table/precache-manifest.c4388a716d093c8ce67ae80de54e78d9.js"
 );
 
 self.addEventListener('message', (event) => {

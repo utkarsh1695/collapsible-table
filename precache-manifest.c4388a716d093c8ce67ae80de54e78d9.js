@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "834fde714caefa5433e40342ac4ca1bc",
+    "revision": "7e1a07ec97b1d8c72a4f93bbcba97fef",
     "url": "/collapsible-table/index.html"
   },
   {
-    "revision": "072ddc6e7da4d619bab5",
+    "revision": "9de431cf91a2f42f9839",
     "url": "/collapsible-table/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/collapsible-table/static/js/2.0aab7a3b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "072ddc6e7da4d619bab5",
-    "url": "/collapsible-table/static/js/main.2ca810bf.chunk.js"
+    "revision": "9de431cf91a2f42f9839",
+    "url": "/collapsible-table/static/js/main.7a967e8f.chunk.js"
   },
   {
     "revision": "8bd300c07938b65d31a8",
